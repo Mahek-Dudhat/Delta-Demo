@@ -1,2 +1,2 @@
 # Delta-Demo
-this project is only for understanding a git &amp; github
+this project is only for understanding a git &amp; github.
